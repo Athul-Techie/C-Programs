@@ -13,7 +13,7 @@ class Student {
 
 int main() {
     Student s1;
-    s1.name = "Fayas";
+    s1.name = "Athul";
     s1.introduce();
     return 0;
 }
